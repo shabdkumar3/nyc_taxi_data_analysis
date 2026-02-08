@@ -1,7 +1,7 @@
 # 🚖 NYC Taxi Report: Operational Insights Dashboard
 <img width="1268" height="717" alt="image" src="https://github.com/user-attachments/assets/b6c4b422-e90f-4640-8d15-5b75c6d63997" />
 
-
+* **Dashboard Link:** [View Dashboard (Release)](https://github.com/shabdkumar3/nyc_taxi_data_analysis/releases/tag/dashboard)
 
 ## 📊 Project Overview
 This Power BI project provides a comprehensive analysis of the New York City Yellow Taxi fleet, processing a massive dataset of **12.21 Million trips** from March 2016. The report is designed as a "Command Center" for fleet managers to monitor operational efficiency, revenue streams, and traffic patterns in real-time.
