@@ -3,7 +3,6 @@
 ## Interactive Dashboard
 [**View Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYWJmMzE3ZDMtNWU5ZC00Yzg3LWJiYWYtOTI2N2IxZDhjMTk2IiwidCI6IjYyNGQ1YzRiLTQ1YzUtNDEyMi04Y2QwLTQ0ZjBmODRlOTQ1ZCJ9)
 
-[**View Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNmRiZmU4MGUtMmQyNC00ZjIzLWI2ZjQtMTE1ODA1ODQzYWJlIiwidCI6IjYyNGQ1YzRiLTQ1YzUtNDEyMi04Y2QwLTQ0ZjBmODRlOTQ1ZCJ9)
 * **Dashboard Link:** [View Dashboard (Release)](https://github.com/shabdkumar3/nyc_taxi_data_analysis/releases/tag/dashboard)
 
 ## 📊 Project Overview
